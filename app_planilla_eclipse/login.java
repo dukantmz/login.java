@@ -2,10 +2,14 @@ package ui;
 
 import java.awt.BorderLayout;
 
+
 import java.awt.EventQueue;
 import java.awt.Insets;
 import java.awt.Color;
 import java.awt.Cursor;
+import java.awt.*;
+
+
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -14,6 +18,7 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.swing.JLabel;
+
 
 import javax.swing.border.EmptyBorder;
 import java.awt.event.FocusAdapter;
@@ -106,6 +111,7 @@ public class login extends JFrame {
 		getContentPane().add(btnCerrar);
 		
 		
+	
 		
 		
 		
